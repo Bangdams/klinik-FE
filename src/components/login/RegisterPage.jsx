@@ -19,7 +19,7 @@ export function RegisterPage() {
   return (
     <div className="flex items-center justify-center h-screen bg-[#F7F9FA]">
       <Card className="p-10">
-        <CardHeader className="mb-10 text-xl font-bold text-center min-w-100">
+        <CardHeader className="mb-10 text-xl font-bold text-center md:min-w-100">
           <p>
             Wellcome To <span className="text-blue-500">Klinik App</span>
           </p>
